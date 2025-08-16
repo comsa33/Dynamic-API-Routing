@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Dynamic API Generator",
+  "description": "An application that allows users to define API specifications and business logic in plain text, then uses Gemini to generate the corresponding Python FastAPI code.",
+  "requestFramePermissions": []
+}
